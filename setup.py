@@ -14,7 +14,7 @@ setup(
     packages=[
         'django_basecrm',
     ],
-    install_requires=['Django>=1.7', 'requests>=2.6'],
+    install_requires=['Django>=1.6', 'requests>=2.6'],
     include_package_data=True,
     description='A Django app that connects to the BaseCRM API (v2)',
     long_description=README,
